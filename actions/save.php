@@ -1,6 +1,5 @@
 <?php
 
-	action_gatekeeper();
 	admin_gatekeeper();
 	$max = (int)get_input('max_fields');
 	
